@@ -1,0 +1,48 @@
+/*    POPUP WINDOW     */
+.popup-heading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
+}
+
+td.popup-property-key {
+  padding: 3px 0;
+}
+
+.popup-property-key {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.popup-property {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+hr.hr-popup-red {
+  display: block;
+  border-width: 0px;
+  height: 3px;
+  background-color: #f0564b;
+  margin-bottom: 10px;
+}
+
+hr.hr-popup-green {
+  display: block;
+  border-width: 0px;
+  height: 3px;
+  background-color: #7ace5c;
+  margin-bottom: 10px;
+}
+
+tr {
+  background-color: white;
+}
+
+/*    MAP BUTTONS   */
+.leaflet-top, .leaflet-bottom {
+  z-index: 500;
+}

@@ -1,0 +1,650 @@
+{"type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2006,
+        "continent": "North America",
+        "state": "México",
+        "city": "Cancún",
+        "days": "8",
+        "longitude": -86.8359,
+        "latitude": 21.1619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8515,
+          21.1619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2007,
+        "continent": "Caribbean",
+        "state": "Tortola",
+        "city": "Turtle Bay",
+        "days": "~3",
+        "longitude": -64.6332,
+        "latitude": 18.4334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6332,
+          18.4334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2007,
+        "continent": "North America",
+        "state": "Florida",
+        "city": "Orlando",
+        "days": "~14",
+        "longitude": -81.5638,
+        "latitude": 28.3852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5638,
+          28.3852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2008,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Ponce",
+        "days": "3",
+        "longitude": -66.6140,
+        "latitude": 18.0110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6140,
+          18.0110
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2008,
+        "continent": "Caribbean",
+        "state": "Tortola",
+        "city": "Turtle Bay",
+        "days": "~3",
+        "longitude": -64.6332,
+        "latitude": 18.4334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6332,
+          18.4334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2009,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Ponce",
+        "days": "~3",
+        "longitude": -66.6140,
+        "latitude": 18.0110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6140,
+          18.0110
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2009,
+        "continent": "North America",
+        "state": "New York",
+        "city": "Manhattan",
+        "days": "~5",
+        "longitude": -73.9712,
+        "latitude": 40.7830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712,
+          40.7830
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2009,
+        "continent": "North America",
+        "state": "Florida",
+        "city": "Orlando",
+        "days": "~8",
+        "longitude": -81.5638,
+        "latitude": 28.3852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5638,
+          28.3852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2009,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Arecibo",
+        "days": "1",
+        "longitude": -66.6464,
+        "latitude": 18.4442
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6464,
+          18.4442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2009,
+        "continent": "Caribbean",
+        "state": "Río Grande",
+        "city": "Río Mar",
+        "days": "2",
+        "longitude": -65.7557,
+        "latitude": 18.3882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7557,
+          18.3882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2009,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Morovis",
+        "days": "1",
+        "longitude": -66.4010,
+        "latitude": 18.2838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4010,
+          18.2838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2010,
+        "continent": "North America",
+        "state": "Florida",
+        "city": "Orlando",
+        "days": "~8",
+        "longitude": -81.5638,
+        "latitude": 28.3852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5638,
+          28.3852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2011,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "San Lorenzo",
+        "days": "1",
+        "longitude": -66.0099,
+        "latitude": 18.1526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0099,
+          18.1526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2011,
+        "continent": "North America",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "days": "~5",
+        "longitude": -77.0368,
+        "latitude": 38.9071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368,
+          38.9071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2012,
+        "continent": "North America",
+        "state": "New York",
+        "city": "Manhattan",
+        "days": "~5",
+        "longitude": -73.9712,
+        "latitude": 40.7830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712,
+          40.7830
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2012,
+        "continent": "North America",
+        "state": "Illinois",
+        "city": "Chicago",
+        "days": "~5",
+        "longitude": -87.6297,
+        "latitude": 41.8781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2012,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Cayey",
+        "days": "1",
+        "longitude": -66.0760,
+        "latitude": 18.1279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0760,
+          18.1279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2013,
+        "continent": "North America",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "days": "~5",
+        "longitude": -77.0368,
+        "latitude": 38.9071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368,
+          38.9071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2013,
+        "continent": "North America",
+        "state": "Missouri",
+        "city": "St. Louis",
+        "days": "~75",
+        "longitude": -90.1994,
+        "latitude": 38.6270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1994,
+          38.6270
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2013,
+        "continent": "North America",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "days": "~75",
+        "longitude": -77.0909,
+        "latitude": 38.8816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0909,
+          38.8816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2013,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Cabo Rojo",
+        "days": "~3",
+        "longitude": -67.1715,
+        "latitude": 18.0006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.1715,
+          18.0006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2013,
+        "continent": "North America",
+        "state": "Maryland",
+        "city": "National Harbor",
+        "days": "1",
+        "longitude": -77.0168,
+        "latitude": 38.7844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0168,
+          38.7844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2014,
+        "continent": "North America",
+        "state": "New York",
+        "city": "Manhattan",
+        "days": "~5",
+        "longitude": -73.9712,
+        "latitude": 40.7830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712,
+          40.7830
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2014,
+        "continent": "North America",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "days": "~1",
+        "longitude": -77.0368,
+        "latitude": 38.9071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368,
+          38.9071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2014,
+        "continent": "North America",
+        "state": "Maryland",
+        "city": "National Harbor",
+        "days": "1",
+        "longitude": -77.0168,
+        "latitude": 38.7844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0168,
+          38.7844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2014,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "San Juan",
+        "days": "1",
+        "longitude": -66.0508,
+        "latitude": 18.4532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0508,
+          18.4532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2014,
+        "continent": "North America",
+        "state": "Virginia",
+        "city": "Old Rag Mountain",
+        "days": "1",
+        "longitude": -78.3157,
+        "latitude": 38.5517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3157,
+          38.5517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2015,
+        "continent": "North America",
+        "state": "New York",
+        "city": "Manhattan",
+        "days": "~5",
+        "longitude": -73.9712,
+        "latitude": 40.7830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712,
+          40.7830
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2015,
+        "continent": "North America",
+        "state": "Florida",
+        "city": "Orlando",
+        "days": "~8",
+        "longitude": -81.5638,
+        "latitude": 28.3852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5638,
+          28.3852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2015,
+        "continent": "North America",
+        "state": "Maryland",
+        "city": "Bowie",
+        "days": "1",
+        "longitude": -76.7740,
+        "latitude": 38.9073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7740,
+          38.9073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2015,
+        "continent": "North America",
+        "state": "Pennsylvania",
+        "city": "Pittsburgh",
+        "days": "2",
+        "longitude": -79.9958,
+        "latitude": 40.4406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958,
+          40.4406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2016,
+        "continent": "North America",
+        "state": "Pennsylvania",
+        "city": "Pittsburgh",
+        "days": "2",
+        "longitude": -79.9958,
+        "latitude": 40.4406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958,
+          40.4406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2016,
+        "continent": "Caribbean",
+        "state": "Puerto Rico",
+        "city": "Bayamón",
+        "days": "~14",
+        "longitude": -66.1653,
+        "latitude": 18.3893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1653,
+          18.3893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "year": 2017,
+        "continent": "North America",
+        "state": "Quebec",
+        "city": "Mont Tremblant",
+        "days": "~5",
+        "longitude": -74.5961,
+        "latitude": 46.1184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5961,
+          46.1184
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.barchart-wrapper {
+  margin-top: 50px;
+}
+
+.chart-title {
+  color: #FBFBFB;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+canvas {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}

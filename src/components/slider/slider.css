@@ -1,0 +1,29 @@
+.slider-container {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.rzslider .rz-bar,
+.rzslider .rz-tick {
+  background-color: #949494;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.rzslider .rz-tick-legend {
+  top: -40px!important;
+}
+
+.rzslider .rz-pointer {
+  top: -14px;
+  z-index: 3;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  background-color: #AA4465!important;
+  border-radius: 29px;
+}
+
+.rzslider .rz-pointer.rz-active::after {
+  background: white;
+}
