@@ -13,7 +13,6 @@
       'service.component-data',
       'chart.js',
       'component.barChart',
-      'ngMaterial',
       'component.pieChart',
       'component.pieChartTwo'
     ])
