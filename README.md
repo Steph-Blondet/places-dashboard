@@ -14,7 +14,7 @@ _Places Dashboard_ is a web app that contains a Leaflet map, a slider, a bar cha
 
 
 ### Dashboard Interaction
-![Places Dashboard](src/images/places-dashboard.png "Places-Dashboard view")
+![Places Dashboard](src/assets/images/places-dashboard.png "Places-Dashboard view")
 
 
 ### How to use
