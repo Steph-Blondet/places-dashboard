@@ -22,19 +22,19 @@ td.popup-property-key {
   font-weight: normal;
 }
 
-hr.hr-popup-red {
+hr.hr-popup-yellow {
   display: block;
   border-width: 0px;
   height: 3px;
-  background-color: #f0564b;
+  background-color: #CCB25D;
   margin-bottom: 10px;
 }
 
-hr.hr-popup-green {
+hr.hr-popup-bluegreen {
   display: block;
   border-width: 0px;
   height: 3px;
-  background-color: #7ace5c;
+  background-color: #57AFA4;
   margin-bottom: 10px;
 }
 

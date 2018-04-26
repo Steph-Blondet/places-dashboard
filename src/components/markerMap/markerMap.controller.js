@@ -96,7 +96,7 @@
           var popUpNorthAmerica = function(){
             layer.setIcon(vm.northAmericaIcon);
             layer.bindPopup(
-              "<h3 class='popup-heading'>" + feature.properties["state"] + "</h3><hr class='hr-popup-red'>" +
+              "<h3 class='popup-heading'>" + feature.properties["state"] + "</h3><hr class='hr-popup-bluegreen'>" +
               "<table>" + "<tr><td class='popup-property-key'>Continent:&nbsp;<span class='popup-property'>" +
               feature.properties["continent"] + "<tr><td class='popup-property-key'>State:&nbsp;<span class='popup-property'>" +
               feature.properties["state"] + "</span></td></tr>" + "<tr><td class='popup-property-key'>City:&nbsp;<span class='popup-property'>" +
@@ -149,7 +149,7 @@
           var popUpCaribbean = function(){
             layer.setIcon(vm.caribbeanIcon);
             layer.bindPopup(
-              "<h3 class='popup-heading'>" + feature.properties["state"] + "</h3><hr class='hr-popup-red'>" +
+              "<h3 class='popup-heading'>" + feature.properties["state"] + "</h3><hr class='hr-popup-yellow'>" +
               "<table class='leaflet-popup-table'>" + "<tr><td class='popup-property-key'>Continent:&nbsp;<span class='popup-property'>" +
               feature.properties["continent"] + "<tr><td class='popup-property-key'>State:&nbsp;<span class='popup-property'>" +
               feature.properties["state"] + "</span></td></tr>" + "<tr><td class='popup-property-key'>City:&nbsp;<span class='popup-property'>" +
